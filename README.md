@@ -1,6 +1,6 @@
 # API-Authentication
+# Auth Controller
 ```
-*** Auth Controller ***
 <?php
 
 namespace App\Http\Controllers;
@@ -65,8 +65,8 @@ class AuthController extends Controller
 }
 
 ```
-```
 # Product Controller
+```
 <?php
 
 namespace App\Http\Controllers;
@@ -149,8 +149,8 @@ class ProductController extends Controller
 }
 
 ```
-```
 # api.php
+```
 <?php
 
 use App\Http\Controllers\AuthController;
