@@ -1,6 +1,6 @@
 # API-Authentication
 ```
-# Auth Controller
+*** Auth Controller ***
 <?php
 
 namespace App\Http\Controllers;
